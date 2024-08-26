@@ -1,3 +1,7 @@
+## 4.0.1
+
+* Updated compileSdkVersion to 31 for Flutter version upgrade to 3.24.0
+
 ## 4.0.0
 
 * Gradle version is updated.
